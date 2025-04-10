@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "jsPath": "index.js",
+  "htmlPath": "index.html",
+  "cssPath": "index.css",
+  "icon": "slideshow",
+  "name": "Banner Slider",
+  "thumbnailPath": "thumbnail.png",
+  "type": "section"
+}
